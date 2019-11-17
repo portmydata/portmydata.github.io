@@ -46,6 +46,6 @@ Tell us about your data portability experiences - or wishes - on [Twitter](https
 Port My Data is the result of a Master's project exploring the ability of data
 subjects to exercise the right to data portability afforded under Article 20 GDPR.
 
-It is a joint project of [UCL Department of Science, Technology Engineering and Public Policy](https://www.ucl.ac.uk/steapp) and [Open Rights Group](https://www.openrightsgroup.org).
+It is a joint project of [UCL Department of Science, Technology Engineering and Public Policy](https://www.ucl.ac.uk/steapp) and [Open Rights Group](https://www.openrightsgroup.org), and funded in part by [PETRAS IoT Research Hub](https://www.petrashub.org/).
 
 Page last updated: 17 November 2019
