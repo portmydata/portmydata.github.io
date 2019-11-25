@@ -3,6 +3,9 @@ layout: page
 title: About The Project
 permalink: /about/
 ---
+
+_This page details the results of research conducted as part of [UCL STEaPP’s Masters of Public Administration programme](https://www.ucl.ac.uk/steapp/study/masters-public-administration-mpa), by [July Galindo](https://www.twitter.com/julesGQ/), [Jessica Lis](https://www.twitter.com/jessicaxlis/), [Sarah Turner](https://www.twitter.com/thepublicturner/) and [Simon Turner](https://www.twitter.com/S_Turner60).  It was carried out in conjunction with the [Open Rights Group](https://www.openrightsgroup.org/) and [PETRAS](https://www.petrashub.org/) Internet of Things Research Hub._
+
 Google recently announced that they are intending to acquire Fitbit.  Despite careful messages from both parties about the fact that personal data [“will not be used for Google ads,”]( https://investor.fitbit.com/press/press-releases/press-release-details/2019/Fitbit-to-Be-Acquired-by-Google/default.aspx) there was an almost audible groan from Fitbit users across social media, as they collectively realised that some of their most personal data would be moving within the Google family – regardless of their views on the matter.
 
 But, what can these users do?  Surely there must be a way to control where, and on which devices, your data is used?
@@ -19,7 +22,7 @@ There are two ways in which the GDPR envisages data portability to work. In the 
 
 Data portability is a new concept, with less empirical research than other, more established, rights of the GDPR – such as the right of access (Article 15 GDPR).  In particular, research in the context of the Internet of Things (IoT) has so far not been conducted. Data portability may be particularly important in the IoT, as personal data is key to making a device smart. Users may be unwilling – or unable – to change from unsuitable or unsupported devices because of the amount of data that they have provided to it.
 
-As part of [UCL STEaPP’s Masters of Public Administration programme](https://www.ucl.ac.uk/steapp/study/masters-public-administration-mpa), and alongside the [Open Rights Group](https://www.openrightsgroup.org/) and [PETRAS](https://www.petrashub.org/) Internet of Things Research Hub, we researched the status quo of the RtDP in relation to consumer IoT products available in the UK.
+We researched the status quo of the RtDP in relation to consumer IoT products available in the UK.
 
 Our research had three strands:
 * An experiment to identify the ability of a data subject to exercise their rights under Article 20, by creating data profiles on commonly used IoT devices (two fitness trackers, two smart speakers), and trying to exercise the right ourselves
