@@ -22,4 +22,6 @@ Want to distribute some paper copies? [Tweet us](https://www.twitter.com/portmyd
 
 ![What can I do?](/images/portability_5.png "What can I do?")
 
-Page last updated: 17 November 2019
+![Contact details](/images/portability_6.png "Who is behind the flyer?")
+
+Page last updated: 26 November 2019
